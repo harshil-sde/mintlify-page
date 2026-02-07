@@ -21,11 +21,8 @@ This project is a recreation of Mintlify using only **HTML and CSS**
 - Secondary text: `#a3a3a3`
 - Border color: `#262626`
 
-Screenshots:
-
-
 ## Live Demo
-👉 https://your-username.github.io/repository-name/
+👉 https://harshil-sde.github.io/mintlify-page/
 
 ## Screenshots
 Screenshots of the final UI are included in the repository.
